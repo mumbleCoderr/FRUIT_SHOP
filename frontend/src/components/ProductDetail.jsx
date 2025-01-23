@@ -47,6 +47,11 @@ const ProductDetail = () => {
   const handleAddToCart = (event) => {
     event.preventDefault();
 
+    if (!userRole) {
+      navigate("/LogIn");
+      return;
+    }
+
     const quantityNumber = parseInt(quantity, 10);
 
     if (!quantity || isNaN(quantityNumber) || quantityNumber <= 0) {

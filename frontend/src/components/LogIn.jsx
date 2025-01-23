@@ -43,7 +43,7 @@ const LogIn = () => {
 
     try {
       const response = await axios.post("http://localhost:8080/auth/login", {
-        username: formData.username,
+        username: formData.username.trim(),
         password: formData.password,
       });
 
