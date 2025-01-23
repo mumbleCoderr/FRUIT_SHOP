@@ -69,7 +69,7 @@ const Profile = () => {
       const token = localStorage.getItem("jwtToken");
       const { oldPassword, newPassword } = formData;
       const response = await fetch(
-        "http://localhost:8080/users/changepassword",
+        "http://localhost:8080/authority/changepassword",
         {
           method: "POST",
           headers: {
