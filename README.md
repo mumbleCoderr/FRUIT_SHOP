@@ -8,7 +8,7 @@ Welcome to the **Online Store Project**, a web application for managing and purc
 
 Click the image below to watch a short showcase of the app's capabilities on YouTube:
 
-[Take or Make App Presentation](https://www.youtube.com/watch?v=Wy5izuefwd8)
+[Fruit Shop Presentation](https://www.youtube.com/watch?v=Wy5izuefwd8)
 
 ---
 
