@@ -4,6 +4,14 @@ Welcome to the **Online Store Project**, a web application for managing and purc
 
 ---
 
+## 🎥 Video Presentation
+
+Click the image below to watch a short showcase of the app's capabilities on YouTube:
+
+[Take or Make App Presentation](https://www.youtube.com/watch?v=Wy5izuefwd8)
+
+---
+
 ## 🚀 How to Run the Project
 
 ### Backend Setup
